@@ -11,3 +11,6 @@ The problem that I was solving was bike riders sometimes are not aware of cars n
 The materials that I used were an Arduino board, LED lights, ultrasonic soundsensor, breadboard, and wires that connected all the other materials.
 
 ## Steps
+1. I wrote the code. 
+2. I attached the materials. 
+3. I tested the device.
