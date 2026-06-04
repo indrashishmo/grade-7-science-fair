@@ -36,7 +36,7 @@ The materials that I used were
 * **Testing**  
 <img src="Photos/P4.png" alt="Breadboard" width="20%">   
 
-* **Code and Sources**  
+* **Sources**  
 <img src="Photos/P5.png" alt="Breadboard" width="30%">  
 
 
